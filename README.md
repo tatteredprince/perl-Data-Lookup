@@ -1,6 +1,4 @@
-# perl-Data-Lookup
+# Neat lookup without any autovivification
 
-Neat lookup without any autovivification
-
-Run to see the manual:
-$ perldoc Data::Lookup
+Shell for Perl module, run to see the manual:
+```$ perldoc Data::Lookup```
