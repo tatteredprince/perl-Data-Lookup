@@ -107,7 +107,7 @@ Otherwise, numerical path pieces will lead to lookup in array.
 
 =head1 AUTHOR
 
-Arshak Martirosyan      mat90X@mail.ru
+Arshak Martirosyan      mat90x@mail.ru
 
 Copyright (c) 2019 Arshak Martirosyan. All rights reserved. This program is
 free software; you can redistribute it and/or modify it under the same terms as
