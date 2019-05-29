@@ -14,7 +14,7 @@ sub Reach {
         if(!defined $ptr) {return wantarray ? (0,undef) : 0}
 
         my $key = shift;
-        if($key =~ /^\d+$/) {
+        if($key =~ /^[0-9]+$/) {
             if(ref $ptr ne 'ARRAY' || !exists $ptr->[$key]) {return wantarray ? (0,undef) : 0}
             $ptr = $ptr->[$key];
         }
